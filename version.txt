@@ -1,4 +1,4 @@
 {
-  "new": 17,
+  "new": 7,
   "url": "https://github.com/xgs925/PicCoolData/raw/master/apk/test.apk"
 }
