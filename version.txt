@@ -1,4 +1,4 @@
 {
-  "new": 10,
-  "url": "https://github.com/xgs925/PicCoolData/raw/master/apk/app-gus-10.apk"
+  "new": 11,
+  "url": "https://github.com/xgs925/PicCoolData/raw/master/apk/app-kuan-11.apk"
 }
