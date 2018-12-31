@@ -1,5 +1,11 @@
 [
 {
+  "name": "prochi",
+  "money": 6.66,
+  "msg":"图酷不错，加油加油",
+  "date":"12-31"
+},
+{
   "name": "WCDMA",
   "money": 2,
   "msg":"希望解析支持批保存",
