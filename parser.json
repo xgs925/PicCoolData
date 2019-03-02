@@ -97,7 +97,7 @@
     "title": "人体艺术",
     "url": "http://www.gnrenti.com/",
     "logo": "http://www.gnrenti.com/img/logo.gif",
-    "listImg": "class.pic@tag.div",
+    "listImg": "class.pic@class.item",
     "itemImgName": "class.src@tag.img@alt",
     "itemImgUrl": "class.src@tag.img@src",
     "itemImgHeader": {
