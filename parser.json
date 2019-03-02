@@ -110,7 +110,7 @@
     "totalPage": "class.page@tag.a.-1@href#([a-zA-Z]+_)|(.html)",
     "pageImgUrl": "class.content@tag.img@src",
     "pageNextUrl": "class.page@tag.a.-1@href",
-    "pageTotalImg": "class.page@tag.a.0@href#(共|(页：)|(页:))",
+    "pageTotalImg": "class.page@tag.a.0@text#(共|(页：)|(页:))",
     "tabs": [
         {
             "title": "中国",
