@@ -1,5 +1,5 @@
 [{
-    "title": "test",
+    "title": "妹子图",
     "logo": "value",
     "listImg": "id.pins@tag.li",
     "itemImgName": "tag.img.0@alt",
@@ -68,6 +68,26 @@
         {
             "title": "性感美女",
             "url": "http://www.mm131.com/xinggan/list_6_{index+1}.html|char=gbk"
+        },
+        {
+            "title": "清纯美眉",
+            "url": "http://www.mm131.com/qingchun/list_1_{index+1}.html|char=gbk"
+        },
+        {
+            "title": "美女校花",
+            "url": "http://www.mm131.com/xiaohua/list_2_{index+1}.html|char=gbk"
+        },
+        {
+            "title": "性感车模",
+            "url": "http://www.mm131.com/chemo/list_3_{index+1}.html|char=gbk"
+        },
+        {
+            "title": "旗袍美女",
+            "url": "http://www.mm131.com/qipao/list_4_{index+1}.html|char=gbk"
+        },
+        {
+            "title": "明星写真",
+            "url": "http://www.mm131.com/mingxing/list_5_{index+1}.html|char=gbk"
         }
     ]
 }]
