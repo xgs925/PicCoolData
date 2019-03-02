@@ -1,6 +1,7 @@
 [{
     "title": "妹子图",
-    "logo": "value",
+    "url":"http://www.mzitu.com/",
+    "logo": "",
     "listImg": "id.pins@tag.li",
     "itemImgName": "tag.img.0@alt",
     "itemImgUrl": "tag.img.0@data-original",
@@ -49,7 +50,8 @@
 },
 {
     "title": "mm131",
-    "logo": "value",
+    "url":"http://www.mm131.com/",
+    "logo": "",
     "listImg": "class.list-left public-box@tag.dd.!-1",
     "itemImgName": "tag.img.0@alt",
     "itemImgUrl": "tag.img.0@src",
