@@ -153,8 +153,12 @@
     "pageTotalImg": "",
     "tabs": [
         {
-            "title": "c",
+            "title": "Cowgirl",
             "url": "category/33?page={index}"
+        },
+        {
+            "title": "Tall",
+            "url": "category/146?page={index}"
         }
     ]
 }
