@@ -107,10 +107,10 @@
         "User-Agent": "Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Mobile Safari/537.36"
     },
     "pageUrl": "tag.a@href",
-    "totalPage": "class.page@tag.a.-1@text#([a-zA-Z]+_)|(.html)",
+    "totalPage": "class.page@tag.a.-1@href#([a-zA-Z]+_)|(.html)",
     "pageImgUrl": "class.content@tag.img@src",
     "pageNextUrl": "class.page@tag.a.-1@href",
-    "pageTotalImg": "class.page@tag.a.0@text#(共|(页：)|(页:))",
+    "pageTotalImg": "class.page@tag.a.0@href#(共|(页：)|(页:))",
     "tabs": [
         {
             "title": "中国",
