@@ -152,6 +152,10 @@
     "pageNextUrl": "",
     "pageTotalImg": "",
     "tabs": [
+         {
+            "title": "popular",
+            "url": "popular?page={index}"
+        },
         {
             "title": "Cowgirl",
             "url": "category/33?page={index}"
