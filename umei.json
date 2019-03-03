@@ -1,0 +1,39 @@
+{
+    "title": "唯美图片",
+    "url": "http://www.umei.cc/",
+    "logo": "",
+    "listImg": "class.TypeList@tag.li",
+    "itemImgName": "tag.span@text",
+    "itemImgUrl": "tag.img.0@src",
+    "pageUrl": "tag.a@href",
+    "totalPage": "class.NewPages.-1@tag.a@href#.htm",
+    "pageImgUrl": "class.ImageBody@tag.img@src",
+    "pageNextUrl": "class.NewPages@tag.li.-1@tag.a@href",
+    "pageTotalImg": "class.NewPages@tag.li.0@text#((共)|(页:)|(页：))",
+    "tabs": [
+        {
+            "title": "壁纸图片",
+            "url": "bizhitupian/{index}.htm"
+        },
+        {
+            "title": "唯美图片",
+            "url": "weimeitupian/{index}.htm"
+        },
+        {
+            "title": "头像图片",
+            "url": "touxiangtupian/{index}.htm"
+        },
+        {
+            "title": "搞笑图片",
+            "url": "gaoxiaotupian/{index}.htm"
+        },
+        {
+            "title": "动画图片",
+            "url": "katongdongman/{index}.htm"
+        },
+        {
+            "title": "风景图片",
+            "url": "tupiandaquan/fengjingtupian/{index}.htm"
+        }
+    ]
+}
