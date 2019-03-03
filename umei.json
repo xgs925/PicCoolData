@@ -6,7 +6,7 @@
     "itemImgName": "tag.span@text",
     "itemImgUrl": "tag.img.0@src",
     "pageUrl": "tag.a@href",
-    "totalPage": "class.NewPages.-1@tag.a@href#.htm",
+    "totalPage": "class.NewPages@tag.li.-1@tag.a@href#.htm",
     "pageImgUrl": "class.ImageBody@tag.img@src",
     "pageNextUrl": "class.NewPages@tag.li.-1@tag.a@href",
     "pageTotalImg": "class.NewPages@tag.li.0@text#((共)|(页:)|(页：))",
