@@ -1,0 +1,34 @@
+{
+    "title": "b站",
+    "url":"https://h.bilibili.com/",
+    "listImg": "@JSon:$.data.items.*",
+    "itemImgName": "",
+    "itemImgUrl": "@JSon:$.item.pictures[0].img_src",
+    "itemPageImgUrl": "@JSon:$.item.pictures..img_src",
+    "tabs": [
+        {
+            "title": "画友(最热)",
+            "url": "https://api.vc.bilibili.com/link_draw/v2/Doc/list?category=all&type=hot&page_num={index-1}&page_size=20"
+        },
+        {
+            "title": "画友(最新)",
+            "url": "https://api.vc.bilibili.com/link_draw/v2/Doc/list?category=all&type=new&page_num={index-1}&page_size=20"
+        },
+        {
+            "title": "cosplay(最热)",
+            "url": "https://api.vc.bilibili.com/link_draw/v2/Photo/list?category=cos&type=hot&page_num={index-1}&page_size=20"
+        },
+        {
+            "title": "cosplay(最新)",
+            "url": "https://api.vc.bilibili.com/link_draw/v2/Photo/list?category=cos&type=new&page_num={index-1}&page_size=20"
+        },
+               {
+            "title": "私服(最热)",
+            "url": "https://api.vc.bilibili.com/link_draw/v2/Photo/list?category=sifu&type=hot&page_num={index-1}&page_size=20"
+        },
+        {
+            "title": "私服(最新)",
+            "url": "https://api.vc.bilibili.com/link_draw/v2/Photo/list?category=sifu&type=new&page_num={index-1}&page_size=20"
+        }
+    ]
+}
