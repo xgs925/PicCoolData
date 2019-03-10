@@ -1,0 +1,28 @@
+{
+    "title": "500px",
+    "url": "https://500px.me/",
+    "listImg": "@JSon:$.data.*",
+    "itemImgName": "",
+    "itemImgUrl": "@JSon:$.url.baseUrl@var:<!p4>",
+    "tabs": [
+        {
+            "title": "热门",
+            "url": "https://500px.me/discover/rating?resourceType=0,2&category=&orderBy=rating&photographerType=&page={index}&size=20&type=json"
+        },
+        {
+            "listImg": "@JSon:$.*",
+            "title": "排名上升",
+            "url": "https://500px.me/community/discover/rankingRise?resourceType=0,2&startTime=&page={index}&size=20&type=json"
+        },
+        {
+            "listImg": "@JSon:$.*",
+            "title": "新作",
+            "url": "https://500px.me/community/discover/created_date?resourceType=0,2&startTime=&page={index}&size=20&type=json"
+        },
+        {
+            "listImg": "@JSon:$.*",
+            "title": "推荐",
+            "url": "https://500px.me/community/discover/recommendTime?resourceType=0,2&startTime=&page={index}&size=20&type=json"
+        }
+    ]
+}
